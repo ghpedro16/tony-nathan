@@ -470,3 +470,12 @@ footer {
     }
 
 }
+
+@media (max-width: 768px){
+    .home {
+        background-image: url(./img/background-mobile.png);
+        position: absolute;
+        background-color: transparent;
+        
+    }
+}
